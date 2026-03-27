@@ -1,2 +1,2 @@
-# demo-dispute-resolution-meridian-v2
-Meridian Bank Dispute Resolution Demo v2 — Pace + Pega Smart Dispute
+# demo-chargeback-resolution-2026-03-05
+Pace demo: demo-chargeback-resolution-2026-03-05

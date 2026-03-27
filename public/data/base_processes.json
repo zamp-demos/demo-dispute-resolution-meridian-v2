@@ -1,0 +1,44 @@
+[
+  {
+    "id": "CHB_001",
+    "category": "Chargeback Resolution",
+    "name": "NovaTech Electronics \u2014 Merchandise Not Received",
+    "stockId": "CHB-2026-0147",
+    "year": "2026-03-05",
+    "status": "In Progress",
+    "currentStatus": "Initializing...",
+    "caseId": "CHB-2026-0147",
+    "reasonCode": "Visa 13.1",
+    "disputeAmount": "$2,847.00",
+    "cardholderName": "James R. Patterson",
+    "merchantName": "NovaTech Electronics"
+  },
+  {
+    "id": "CHB_002",
+    "category": "Chargeback Resolution",
+    "name": "Artisan Home Furnishings \u2014 Friendly Fraud Detection",
+    "stockId": "CHB-2026-0289",
+    "year": "2026-03-05",
+    "status": "In Progress",
+    "currentStatus": "Initializing...",
+    "caseId": "CHB-2026-0289",
+    "reasonCode": "Visa 13.3",
+    "disputeAmount": "$6,420.00",
+    "cardholderName": "Sarah M. Chen",
+    "merchantName": "Artisan Home Furnishings"
+  },
+  {
+    "id": "CHB_003",
+    "category": "Chargeback Resolution",
+    "name": "CloudFit Athletic Gear \u2014 Pre-Arb Cost-Benefit Reversal",
+    "stockId": "CHB-2026-0412",
+    "year": "2026-03-05",
+    "status": "In Progress",
+    "currentStatus": "Initializing...",
+    "caseId": "CHB-2026-0412",
+    "reasonCode": "Visa 10.4",
+    "disputeAmount": "$1,180.00",
+    "cardholderName": "David L. Morrison",
+    "merchantName": "CloudFit Athletic Gear"
+  }
+]
